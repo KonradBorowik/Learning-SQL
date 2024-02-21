@@ -29,3 +29,5 @@ source </path/to/folder> /tables.sql
 source </path/to/folder> /queries.sql
 ```
 Alternatively use PopSQL or other SQL editor to run queries separately.
+
+7. To test triggers copy and paste queries to MySQL shell 
